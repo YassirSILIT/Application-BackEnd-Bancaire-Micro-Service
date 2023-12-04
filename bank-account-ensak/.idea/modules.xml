@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../account-service1/account-service1.iml" filepath="$PROJECT_DIR$/../account-service1/account-service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account-ensak.iml" filepath="$PROJECT_DIR$/bank-account-ensak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../config-service1/config-service1.iml" filepath="$PROJECT_DIR$/../config-service1/config-service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../customer-service1/customer-service1.iml" filepath="$PROJECT_DIR$/../customer-service1/customer-service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../discovery-service1/discovery-service1.iml" filepath="$PROJECT_DIR$/../discovery-service1/discovery-service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gateway-service1/gateway-service1.iml" filepath="$PROJECT_DIR$/../gateway-service1/gateway-service1.iml" />
+    </modules>
+  </component>
+</project>
